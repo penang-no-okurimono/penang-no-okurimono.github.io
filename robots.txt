@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://penang-no-okurimono.github.io/sitemap.xml
